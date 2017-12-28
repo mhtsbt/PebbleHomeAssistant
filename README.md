@@ -1,1 +1,3 @@
-"# PebbleHomeAssistant" 
+# PebbleHomeAssistant
+
+![](screens/pebble.png)
